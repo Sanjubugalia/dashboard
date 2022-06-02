@@ -1,0 +1,48 @@
+.featured{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.featureditem{
+    flex: 1;
+    margin: 0px,20px;
+    padding: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+   -webkit-box-shadow: 0px 0px 15px -10px rgba(0,0,0,0.75 );
+    box-shadow: 0px 0px 15px -10px rgba(0,0,0,0.75 )
+}
+.featuretitle{
+    font-size: 15px;
+    font-weight: bold;
+    color: grey;
+}
+.moneycontainer{
+    margin: 10px,0px;
+    align-items: center;
+    display: flex;
+}
+.money{
+    font-size: 20px;
+    font-weight: 600;
+}
+.moneyrate{
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+    font-size: 15px;
+}
+.arrowicon{
+font-size: 6px;
+color: green;
+ margin-left: 5px;
+}
+.arrowicon.negative{
+    color: red;   
+}
+.featuredsub{
+    font-size: 15px;
+    color: rgb(163, 161, 161);
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
