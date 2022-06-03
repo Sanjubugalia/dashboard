@@ -54,3 +54,22 @@ margin-top: 5px;
 .createbtn{
     float: right;
 }
+.fr{
+    float: right;
+}
+.link{
+    color: white;
+}
+.newuserbtn{
+    border-color: blue;
+    background-color: white;
+    color: blue;
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+.newuserbtn:hover{
+    color: white;
+    background-color: blue;
+}
