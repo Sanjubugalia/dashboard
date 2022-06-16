@@ -2,6 +2,12 @@
     display: flex;
 }
 
+.fr{
+    float: right;
+}
+.fl{
+    float: left;
+}
 .home{
     flex: 4;
 }

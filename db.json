@@ -1,11 +1,248 @@
 {
   "posts": [
     {
-      "name":"sanju",
-      "email":"sanju@gmail.com",
-      "phonenum":"3276562",
-      "address":"h/90/gurgavn"
-    
+      "id": "1",
+      "username": "Peter Roker",
+      "position": "Software Engineer",
+      "age": "25",
+      "email": "peter@gmail.com",
+      "phonenum": "567-898-90",
+      "address": "mall-road/Washington",
+      "gender": "Male",
+      "img": "/image/user4.jpg"
+    },
+    {
+      "id": "2",
+      "username": "kally marker",
+      "position": "Software Engineer",
+      "age": "25",
+      "email": "goggy@gmail.com",
+      "phonenum": "567-898-90",
+      "address": "mall-road/Washington",
+      "gender": "Female",
+      "img": "/image/user10.jpg"
+    },
+    {
+      "id": "3",
+      "username": "goggy Roker",
+      "position": "Software Engineer",
+      "age": "25",
+      "email": "goggy@gmail.com",
+      "phonenum": "567-898-90",
+      "address": "mall-road/Washington",
+      "gender": "Female",
+      "img": "/image/user9.jpg"
+    },
+    {
+      "id": "4",
+      "username": "john Shenkr",
+      "position": "Software Engineer",
+      "age": "25",
+      "email": "john@gmail.com",
+      "phonenum": "567-898-90",
+      "address": "mall-road/Washington",
+      "gender": "Male",
+      "img": "/image/user4.jpg"
+    },
+    {
+      "id": "5",
+      "username": "Rikky Ponting",
+      "position": "Software Engineer",
+      "age": "25",
+      "email": "rikky@gmail.com",
+      "phonenum": "567-898-90",
+      "address": "mall-road/Washington",
+      "gender": "Male",
+      "img": "/image/user3.jpg"
+    },
+    {
+      "id": "6",
+      "username": "Aniam Skoorz",
+      "position": "Software Engineer",
+      "age": "25",
+      "email": "aniam@gmail.com",
+      "phonenum": "567-898-90",
+      "address": "mall-road/Washington",
+      "gender": "Female",
+      "img": "/image/user9.jpg"
+    },
+    {
+      "id": "7",
+      "username": "Peter Rolki",
+      "position": "Software Engineer",
+      "age": "28",
+      "email": "peter@gmail.com",
+      "phonenum": "567-898-90",
+      "address": "mall-road/Washington",
+      "gender": "Male",
+      "img": "/image/user4.jpg"
+    },
+    {
+      "id": "8",
+      "username": "Eliza choupara",
+      "position": "Software Engineer",
+      "age": "35",
+      "email": "eliza@gmail.com",
+      "phonenum": "567-898-90",
+      "address": "mall-road/Washington",
+      "gender": "Female",
+      "img": "/image/user8.jpg"
+    },
+    {
+      "id": "9",
+      "username": "Maliak Riyaaz",
+      "position": "Sales Manager",
+      "age": "29",
+      "email": "mailik@gmail.com",
+      "phonenum": "567-898-90",
+      "address": "mall-road/Washington",
+      "gender": "Male",
+      "img": "/image/user5.jpg"
+    },
+    {
+      "id": "10",
+      "username": "Mikky Penyio",
+      "position": "Software Engineer",
+      "age": "25",
+      "email": "mikky@gmail.com",
+      "phonenum": "567-898-90",
+      "address": "mall-road/Washington",
+      "gender": "Female",
+      "img": "/image/user7.jpg"
+    },
+    {
+      "username": "vishwa",
+      "img": "",
+      "password": "989898989",
+      "email": "vishwa@gmail.com",
+      "phonenum": "7890987900",
+      "fullname": "",
+      "gender": "female",
+      "address": "gr/30/hikolp/washington",
+      "status": "",
+      "id": "ga6bh52"
+    }
+
+  ],
+  "productdata": [
+    {
+      "id": 1,
+      "productname": "Mobile",
+      "brand": "Vivo",
+      "mfgd": "22/3/1998",
+      "color": "Gray",
+      "price": "$122.12",
+      "stock": "yes",
+      "status": "active",
+      "sale": "2345",
+      "img": "/image/mob1.jpg"
+    },
+    {
+      "id": 2,
+      "productname": "Mobile",
+      "brand": "Oppo",
+      "mfgd": "22/3/1998",
+      "color": "Gray",
+      "price": "$122.12",
+      "stock": "yes",
+      "status": "active",
+      "img": "/image/mob2.jpg"
+    },
+    {
+      "id": 3,
+      "productname": "Mobile",
+      "brand": "Vivo",
+      "mfgd": "22/3/1998",
+      "color": "Gray",
+      "price": "$122.12",
+      "stock": "yes",
+      "status": "active",
+      "sale": "2345",
+      "img": "/image/mob3.jpg"
+    },
+    {
+      "id": 4,
+      "productname": "Mobile",
+      "brand": "Vivo",
+      "mfgd": "22/3/1998",
+      "color": "Gray",
+      "price": "$122.12",
+      "stock": "yes",
+      "status": "active",
+      "sale": "2345",
+      "img": "/image/mob4.jpg"
+    },
+    {
+      "id": 5,
+      "productname": "Mobile",
+      "brand": "Vivo",
+      "mfgd": "22/3/1998",
+      "color": "Gray",
+      "price": "$122.12",
+      "stock": "yes",
+      "status": "active",
+      "sale": "2345",
+      "img": "/image/mob5.jpg"
+    },
+    {
+      "id": 6,
+      "productname": "Mobile",
+      "brand": "Vivo",
+      "mfgd": "22/3/1998",
+      "color": "Gray",
+      "price": "$122.12",
+      "stock": "yes",
+      "status": "active",
+      "sale": "2345",
+      "img": "/image/mob6.jpg"
+    },
+    {
+      "id": 7,
+      "productname": "Mobile",
+      "brand": "Vivo",
+      "mfgd": "22/3/1998",
+      "color": "Gray",
+      "price": "$122.12",
+      "stock": "yes",
+      "status": "active",
+      "sale": "2345",
+      "img": "/image/mob7.jpg"
+    },
+    {
+      "id": 8,
+      "productname": "Mobile",
+      "brand": "Vivo",
+      "mfgd": "22/3/1998",
+      "color": "Gray",
+      "price": "$122.12",
+      "stock": "yes",
+      "status": "active",
+      "sale": "2345",
+      "img": "/image/mob8.jpg"
+    },
+    {
+      "id": 9,
+      "productname": "Mobile",
+      "brand": "Vivo",
+      "mfgd": "22/3/1998",
+      "color": "Gray",
+      "price": "$122.12",
+      "stock": "yes",
+      "status": "active",
+      "sale": "2345",
+      "img": "/image/mob9.jpg"
+    },
+    {
+      "id": 10,
+      "productname": "Mobile",
+      "brand": "Vivo",
+      "mfgd": "22/3/1998",
+      "color": "Gray",
+      "price": "$122.12",
+      "stock": "yes",
+      "status": "active",
+      "sale": "2345",
+      "img": "/image/mob10.jpg"
     }
   ]
 }

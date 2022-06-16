@@ -1,13 +1,4 @@
-import user1 from "./component/image/user1.jpg";
-import user2 from "./component/image/user2.jpg";
-import user3 from "./component/image/user3.jpg";
-import user4 from "./component/image/user4.jpg"
-import user5 from "./component/image/user5.jpg"
-import user6 from "./component/image/user6.jpg"
-import user7 from "./component/image/user7.jpg"
-import user8 from "./component/image/user8.jpg"
-import user9 from "./component/image/user9.jpg"
-import user10 from "./component/image/user10.jpg"
+
 
 
 export const data = [
@@ -57,6 +48,31 @@ export const data = [
 
 ]
 
+export const productdata = [
+    {
+        name: "Jan",
+        "sale": 3000,
+    },
+    {
+        name: "Feb",
+        "sale": 2000,
+    },
+
+   
+    {
+        name: "Mar",
+        "sale": 3000,
+    }
+
+
+]
+
+
+
+
+
+
+
 export const userdata = [
     {   id:1,
         name: "Kally marker",
@@ -65,7 +81,7 @@ export const userdata = [
         phone:567-898-90,
         address:"mall-road/Washington",
         gender:"Female",
-        img:user10
+        
     
     },
     {
@@ -76,8 +92,7 @@ export const userdata = [
         phone:567-898-90,
         address:"mall-road/Washington",
         gender:"Male",
-        img:user1
-    
+            
     },
     {
         id:3,
@@ -87,8 +102,7 @@ export const userdata = [
         phone:567-898-90,
         address:"mall-road/Washington",
         gender:"Male",
-        img:user2
-    
+            
     },
     {
         id:4,
@@ -98,8 +112,7 @@ export const userdata = [
         phone:567-898-90,
         address:"mall-road/Washington",
         gender:"Female",
-        img:user9
-    
+            
     },
     {
         id:5,
@@ -109,8 +122,7 @@ export const userdata = [
         phone:567-898-90,
         address:"mall-road/Washington",
         gender:"Male",
-        img:user3
-    
+            
     },
     {
         id:6,
@@ -120,8 +132,7 @@ export const userdata = [
         phone:567-898-90,
         address:"mall-road/Washington",
         gender:"Female",
-        img:user8
-    
+            
     },
     {
         id:7,
@@ -131,8 +142,7 @@ export const userdata = [
         phone:567-898-90,
         address:"mall-road/Washington",
         gender:"Male",
-        img:user4
-    
+            
     },
     {
         id:8,
@@ -142,8 +152,7 @@ export const userdata = [
         phone:567-898-90,
         address:"mall-road/Washington",
         gender:"Female",
-        img:user7
-    
+            
     },
     {
         id:9,
@@ -153,7 +162,7 @@ export const userdata = [
         phone:567-898-90,
         address:"mall-road/Washington",
         gender:"Male",
-        img:user6    
+           
     },
     {
         id:10,
@@ -163,8 +172,7 @@ export const userdata = [
         phone:567-898-90,
         address:"mall-road/Washington",
         gender:"Female",
-        img:user5
-    
+            
     },
 ]
 

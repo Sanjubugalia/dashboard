@@ -42,7 +42,7 @@ function Sidebar() {
                         </li>
                         <li className="sidemeniitem">
                             <Timeline />
-                            Products
+                            <Link to="/product">Product</Link>
                         </li>
                         <li className="sidemeniitem">
                             <TrendingUp />

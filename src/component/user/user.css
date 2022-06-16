@@ -38,6 +38,7 @@ margin-top: 5px;
     float: left;
     width: 50%;
     padding:20px;
+    box-shadow: 3px,4px,5px black;
 
 }
 .newuserlg{
@@ -61,15 +62,48 @@ margin-top: 5px;
     color: white;
 }
 .newuserbtn{
-    border-color: blue;
-    background-color: white;
-    color: blue;
-    width: 150px;
+    border-color: darkcyan;
+    background-color: darkcyan;
+    color: white;
+    
     height: 40px;
     border-radius: 5px;
+    padding: 5px;
+    width: 200px;
+    margin-bottom: 4px;
 }
 
 .newuserbtn:hover{
+    color: darkcyan;
+    background-color: white;
+    
+}
+.theadcolor{
+    background-color: rgb(48, 118, 118);
     color: white;
-    background-color: blue;
+}
+
+.trowcolor{
+    background-color: rgb(249, 250, 250);
+    color: black;
+}
+.newbackground{
+    background-color: rgb(245, 243, 243);
+    box-shadow: 3px,4px,5px black;
+}
+.userlistimg{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.scroll-bg{
+    width: 400px;
+    margin: 10% auto;
+   
+}
+.scrollbar-div{
+    width: 1200px;
+    height: 600px;
+    overflow: hidden;
+    overflow-y: scroll;
 }
